@@ -1,12 +1,16 @@
-# Hi 👋, I’m `Israt Jahan Sukonna`  
-<p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="YOUR_GITHUB_USERNAME" /> 
-</p>
+# Hi there 👋, I'm Israt Jahan Sukonna
 
-- 🎓 I’m currently pursuing my **Bachelor's Degree in Computer Science & Engineering (CSE)** at [Your University](YOUR_UNIVERSITY_LINK).  
-- 💻 I enjoy **competitive programming**, solving algorithmic challenges, and participating in coding contests.  
-- 📫 How to reach me: **your.email@example.com**  
-- 🌟 I love exploring **new technologies** and **learning about machine learning & data science**.  
+### 🌱 About Me
+I'm a **CSE student** passionate about **Web Development, UI/UX Design, and programming**.  
+Currently building projects to improve my skills in **HTML, CSS, JavaScript, and Java**.
+
+---
+
+### 💻 Skills
+- **Languages:** Java, C, C++, Python (Basics)  
+- **Web Development:** HTML, CSS, JavaScript  
+- **Tools & IDEs:** VS Code, Eclipse, Git & GitHub  
+- **Other Interests:** UI/UX Design, Data Structures, Algorithms
 
 Check the [repositories](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories) section to see my work!  
 
