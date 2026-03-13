@@ -14,7 +14,8 @@ I enjoy building real-world projects, learning new technologies, and continuousl
 - **Tools & IDEs:** VS Code, Eclipse, Git & GitHub  
 - **Other Interests:** UI/UX Design, Data Structures, Algorithms
 
-Check the [repositories](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories) section to see my work!  
+Check the [repositories](https://github.com/Israt-Art?tab=repositories) section to see my work!
+  
 
 ---
 
