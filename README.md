@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there 👋, I'm Sumaiya Israt
 
-<!--
-**Israt-Art/Israt-Art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 About Me
+I'm a **CSE student** passionate about **Web Development, UI/UX Design, and programming**.  
+Currently building projects to improve my skills in **HTML, CSS, JavaScript, and Java**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Skills
+- **Languages:** Java, C, C++, Python (Basics)  
+- **Web Development:** HTML, CSS, JavaScript  
+- **Tools & IDEs:** VS Code, Eclipse, Git & GitHub  
+- **Other Interests:** UI/UX Design, Data Structures, Algorithms
+
+---
+
+### 🔭 Projects
+Here are some of my personal projects:
+
+| Project | Description | Tech Stack |
+|---------|------------|------------|
+| To-Do App | A task management web app with local storage | HTML, CSS, JavaScript |
+| Portfolio Website | My personal portfolio homepage | HTML, CSS, JS |
+| Banking App | Java application for account management | Java, File Handling |
+
+*(More projects coming soon…)*
+
+---
+
+### 📫 Connect with Me
+- [Portfolio Website](#)  
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
+- [GitHub](https://github.com/your-username)  
+
+---
+
+### ⚡ Fun Fact
+I love solving programming challenges and creating clean UI designs. 🎨
