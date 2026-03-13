@@ -57,13 +57,13 @@ Check the [repositories](https://github.com/Israt-Art?tab=repositories) section 
 
 ## Connect with Me 🌐
 <p align="left">
-  <a href="#" target="_blank">
+  <a href="mailto:ijshoknna2005@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://www.facebook.com/ijshoknna2005" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="#" target="_blank">
@@ -71,7 +71,6 @@ Check the [repositories](https://github.com/Israt-Art?tab=repositories) section 
   </a>
 </p>
 
----
 
 ## Competitive Programming Profiles 👨‍💻
 <p align="left">
