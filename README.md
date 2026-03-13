@@ -18,8 +18,8 @@ Check the [repositories](https://github.com/YOUR_GITHUB_USERNAME?tab=repositorie
 
 ## GitHub Stats 📈
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&theme=dracula" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Israt-Art&show_icons=true&include_all_commits=true&theme=dracula" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israt-Art&layout=compact&theme=dracula" height="150" alt="Top Languages" />
 </div>
 
 ---
