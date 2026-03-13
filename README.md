@@ -1,8 +1,10 @@
 # Hi there 👋, I'm Israt Jahan Sukonna
 
 ### 🌱 About Me
-I'm a **CSE student** passionate about **Web Development, UI/UX Design, and programming**.  
-Currently building projects to improve my skills in **HTML, CSS, JavaScript, and Java**.
+I am a Computer Science and Engineering (CSE) student passionate about programming and problem solving. 
+I am currently strengthening my skills in C, C++, and web technologies including HTML, CSS, and JavaScript. 
+I enjoy building real-world projects, learning new technologies, and continuously improving my problem-solving and software development abilities.
+
 
 ---
 
