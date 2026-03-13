@@ -1,10 +1,9 @@
 # Hi there 👋, I'm Israt Jahan Sukonna
 
 ### 🌱 About Me
-I am a Computer Science and Engineering (CSE) student passionate about programming and problem solving. 
-I am currently strengthening my skills in C, C++, and web technologies including HTML, CSS, and JavaScript. 
+I am a Computer Science and Engineering (CSE) student passionate about programming and problem solving.  
+I am currently strengthening my skills in C, C++, and web technologies including HTML, CSS, and JavaScript.  
 I enjoy building real-world projects, learning new technologies, and continuously improving my problem-solving and software development abilities.
-
 
 ---
 
@@ -15,7 +14,6 @@ I enjoy building real-world projects, learning new technologies, and continuousl
 - **Other Interests:** UI/UX Design, Data Structures, Algorithms
 
 Check the [repositories](https://github.com/Israt-Art?tab=repositories) section to see my work!
-  
 
 ---
 
@@ -23,13 +21,14 @@ Check the [repositories](https://github.com/Israt-Art?tab=repositories) section 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Israt-Art&show_icons=true&include_all_commits=true&theme=dracula" height="150" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israt-Art&layout=compact&theme=dracula" height="150" alt="Top Languages" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Israt-Art&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
 ---
 
 ## Languages and Tools ⚙️
 <p align="left">
-  <!-- Add icons for the technologies you know -->
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
@@ -39,7 +38,15 @@ Check the [repositories](https://github.com/Israt-Art?tab=repositories) section 
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
-  <!-- Add more as needed -->
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
 </p>
 
 ---
@@ -73,5 +80,4 @@ Check the [repositories](https://github.com/Israt-Art?tab=repositories) section 
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
   </a>
-  <!-- Add other platforms like GFG, CodeChef, etc. -->
 </p>
