@@ -17,13 +17,6 @@ Check the [repositories](https://github.com/Israt-Art?tab=repositories) section 
 
 ---
 
-## GitHub Stats 📈
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Israt-Art&show_icons=true&include_all_commits=true&theme=dracula" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israt-Art&layout=compact&theme=dracula" height="150" alt="Top Languages" />
-</div>
-
----
 
 ## Languages and Tools ⚙️
 <p align="left">
