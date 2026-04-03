@@ -8,7 +8,7 @@ I enjoy building real-world projects, learning new technologies, and continuousl
 ---
 
 ### 💻 Skills
-- **Languages:** Java, C, C++, Python (Basics), PHP  
+- **Languages:** Java, C, C++, Python (Basics), Php
 - **Web Development:** HTML, CSS, JavaScript, MySQL  
 - **Tools & IDEs:** VS Code, Eclipse, Git & GitHub  
 - **Other Interests:** UI/UX Design, Data Structures, Algorithms
