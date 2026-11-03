@@ -1,59 +1,67 @@
 
-# Hi there 👋, I'm Israt Jahan Sukonna
+<h1 align="center">Hi 👋, I'm Israt Jahan Sukonna</h1>
 
-<img src="https://komarev.com/ghpvc/?username=Israt-Art&style=flat-square&color=blue" alt="Profile Views" align="right" />
+<h3 align="center">Computer Science & Engineering Student | Aspiring Software Developer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Israt-Art&style=for-the-badge&color=blue" alt="Profile Views"/>
+</p>
+
+---
 
 ### 🌱 About Me
 
-I am a Computer Science and Engineering (CSE) student passionate about programming and problem solving.
-
-I am currently strengthening my skills in C, C++, and web technologies, including HTML, CSS, JavaScript, React, and MySQL.
-
-I enjoy building real-world projects, exploring new technologies, and continuously improving my problem-solving and software development abilities.
-
----
-
-### 💻 Skills
-
-- **Languages:** Java, C, C++, Python (Basics), PHP
-- **Web Development:** HTML, CSS, JavaScript, React, MySQL
-- **Tools & IDEs:** VS Code, Eclipse, Git & GitHub
-- **Other Interests:** UI/UX Design, Data Structures, Algorithms
-
-Check out my [Repositories](https://github.com/Israt-Art?tab=repositories) to explore my projects!
+- 🎓 Computer Science and Engineering (CSE) student.
+- 💻 Passionate about programming and problem solving.
+- 🌐 Exploring web development with HTML, CSS, JavaScript, React, PHP, and MySQL.
+- 🧩 Interested in Data Structures, Algorithms, and software development.
+- 🚀 Enjoy building practical projects and learning new technologies.
+- 📚 Always working on improving my technical skills.
 
 ---
 
-## 🛠️ Languages and Tools
+### 💻 Tech Stack
 
-<p align="left">
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+**Programming Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php" />
+</p>
+
+**Frontend Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+**Database & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,eclipse" />
+</p>
+
+---
+
+### 🎯 Areas of Interest
+
+- Web Development
+- Problem Solving
+- Data Structures & Algorithms
+- UI/UX Design
+- Software Development
+
+---
+
+### 📂 Explore My Work
+
+<p>
+  <a href="https://github.com/Israt-Art?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
+
+<p align="center">
+  <i>"Learning, building, and improving — one project at a time."</i>
+</p>
